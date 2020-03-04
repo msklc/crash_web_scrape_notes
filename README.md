@@ -21,7 +21,7 @@ This notebook is prepared for DeeploAI session on 01.03.2020
 	
 	4.3. Adding Variable-Parameters To a URL
 	
-	4.4. Finding The Parameters In URLs
+	4.4. Finding The Parameters Of URLs
 
 5. Gathering Content
 
